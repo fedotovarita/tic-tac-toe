@@ -3,6 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://fedotovarita.github.io/tic-tac-toe/",
+  "repository": "https://github.com/fedotovarita/tic-tac-toe",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
